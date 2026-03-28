@@ -1,7 +1,7 @@
 
 ---
 <div align="center">
-<img src="../ASSETS/lumio_ic.png" alt="Lumio Icon" width="64" height="64"/>
+<img src="../ASSETS/lumio_ic.png" alt="Lumio Icon" width="100" height="100"/>
 
 # Lumio
 **Data first. AI driven.**
