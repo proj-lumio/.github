@@ -1,88 +1,55 @@
----
 <div align="center">
 <img src="ASSETS/lumio_ic.png" alt="Lumio Icon" width="64" height="64"/>
 
 # Lumio
 **Data first. AI driven.**
 
-*Le PMI italiane perdono fino al 25% del fatturato per dati non strutturati.*
-*Lumio è la risposta.*
+Italian SMEs lose up to 25% of revenue to unstructured data.
 
 </div>
 
----
+<br/>
 
-Lumio trasforma i tuoi contratti e documenti aziendali in decisioni strategiche.
-Carica qualsiasi documento — contratti, report, audio, video, immagini — e Lumio
-li analizza, li connette e li rende interrogabili attraverso un'intelligenza
-artificiale conversazionale.
+Lumio turns your business documents into strategic decisions.
+Upload contracts, reports, audio, video, images — Lumio reads them, connects them, and lets you interrogate them through AI.
 
-Non un chatbot. Un sistema di intelligence aziendale.
+Not a chatbot. A business intelligence system.
 
----
+<br/>
 
-## 💡 La soluzione
+## The architecture
 
-Lumio è costruito attorno ad una **AgenticGraphRAG** — un'architettura che va oltre
-la semplice ricerca semantica. Invece di cercare documenti, Lumio *navega relazioni*:
-costruisce un grafo della conoscenza che collega fornitori, contratti, entità e
-dati finanziari, e ci ragiona sopra in modo agentico.
+Lumio is built on **AgenticGraphRAG** — beyond semantic search.
+It builds a knowledge graph connecting suppliers, contracts, entities and financials, then reasons over it agentically.
 
-Il risultato è che Lumio riesce a gestire **volumi enormi di contesto** — migliaia
-di documenti lunghi e complessi — senza perdere il filo. Mentre un
-sistema tradizionale si perde nel rumore, Lumio attraversa il grafo e trova le
-connessioni che contano grazie ad una strutturazione .
+This means Lumio handles thousands of long, complex documents without losing context.
+Where traditional systems drown in noise, Lumio finds the connections that matter.
 
-> 🔬 **Architettura già validata in contesti enterprise** — La pipeline su cui
-> si basa Lumio — ingestione multimodale, chunking semantico, graph construction,
-> agenti di ragionamento e retrieval ibrido vettoriale/grafo — è la stessa
-> architettura che uno dei membri del team sta applicando in un progetto enterprise
-> su documenti reali, grandi e complessi. I risultati confermano la tenuta
-> dell'approccio anche in scenari ad alta densità informativa.
+The pipeline — multimodal ingestion, semantic chunking, graph construction, hybrid vector/graph retrieval — has already been validated on real enterprise documents.
 
----
+<br/>
 
-## 📊 Dashboard strategica per decisioni data-driven
+## What you get
 
-Lumio non si limita ad estrarre dati — li trasforma in visione. I team di
-management, sales e finance ottengono una lettura strategica del portafoglio
-contratti in tempo reale:
+- **Who matters** — which clients drive revenue, where you're overexposed
+- **What's expiring** — contracts needing attention in the next 90 days
+- **Where you're off-standard** — discounts, unusual terms, risk clauses flagged automatically
+- **What's growing, what's not** — product and service performance across the portfolio
 
-- **Clienti strategici** — chi pesa di più sul fatturato e quanto sei concentrato?
-- **Contratti critici** — quali scadono nei prossimi mesi e richiedono attenzione prioritaria?
-- **Condizioni commerciali** — dove stai applicando sconti o termini fuori standard?
-- **Performance prodotti/servizi** — cosa cresce, cosa rallenta?
-- **Clausole a rischio** — condizioni che aumentano esposizione o costi, identificate automaticamente
+<br/>
 
----
+## What Lumio does
 
-## 🔍 Cosa fa Lumio
+- Ingests anything — PDF, Word, Excel, PowerPoint, CSV, audio, video, images
+- Reasons over your data, not just searches it
+- Scores and ranks suppliers by dependency, risk and data quality
+- Finds new suppliers on the web and compares them to your existing portfolio
+- Extracts financial terms, SLAs and lock-in clauses automatically
+- Visualizes entity relationships in an interactive knowledge graph
 
-- **Carica tutto** — PDF, Word, Excel, PowerPoint, CSV, audio, video, immagini.
-Lumio estrae, indicizza e collega ogni informazione automaticamente
-- **Chatta con i tuoi dati** — un assistente AI che non cerca parole chiave,
-ma ragiona navigando tra vettori semantici e grafi di relazioni
-- **Visione cross-portfolio** — analisi strategica che aggrega ranking, spesa,
-dipendenza e rischio su tutti i tuoi fornitori in un'unica vista
-- **Non solo ciò che hai — anche ciò che non hai ancora** — Lumio non si limita
-ad analizzare i tuoi documenti esistenti. Un agente AI cerca attivamente
-sul web nuovi fornitori, li confronta con il tuo portfolio attuale e li aggiunge
-a Lumio con un click. Perché una buona decisione considera anche le alternative
-- **Analisi contratti automatica** — estrazione di termini finanziari, SLA,
-lock-in e criticità senza leggere una riga
-- **Ranking e scoring** — classifica i fornitori per dipendenza, rischio e
-qualità dei dati, così sai dove intervenire prima
-- **Knowledge Graph interattivo** — visualizza le connessioni tra aziende,
-documenti ed entità in un grafo navigabile
+<br/>
 
----
+## The point
 
-## 🧠 In sintesi
-
-> Lumio non è un altro chatbot sui documenti.
-> È un sistema di intelligence aziendale che parte dai dati grezzi e arriva
-> a insight azionabili — collegando ciò che i tool tradizionali tengono separato.
-
-I tuoi dati parlano. Lumio li fa ascoltare.
-
----
+Most tools keep your data separate. Lumio connects it.
+Raw documents in. Actionable intelligence out.
