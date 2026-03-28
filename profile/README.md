@@ -1,5 +1,3 @@
-
----
 <div align="center">
 <img src="../ASSETS/lumio_ic.png" alt="Lumio Icon" width="100" height="100"/>
 
